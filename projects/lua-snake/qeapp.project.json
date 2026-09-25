@@ -1,0 +1,8 @@
+{
+  "project_format": 1,
+  "id": "snake_lua",
+  "name": "Pixel Snake Lua",
+  "version": "0.1.0",
+  "type": "lua",
+  "content": "main.lua"
+}

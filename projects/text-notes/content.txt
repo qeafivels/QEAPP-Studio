@@ -1,0 +1,4 @@
+VQEAF OS - Text Notes
+
+Day la ung dung text duoc dong goi QEAPP/2 va ky P-256 bang khoa rieng cua ban.
+Tep .qeapp se mo bang Text Viewer cua firmware v2.4.2.

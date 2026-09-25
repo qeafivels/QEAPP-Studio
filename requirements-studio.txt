@@ -1,0 +1,6 @@
+# Desktop editor (PC only); NOT a firmware dependency.
+PySide6>=6.6,<7
+# For signed QEAPP builds, required by firmware/tools/build_qeapp.py:
+cryptography>=41
+# Optional icon conversion (Pillow) if your project has icon PNG:
+Pillow>=10

@@ -1,0 +1,106 @@
+{
+  "docs_version": "1.1",
+  "target": "QEAPP-Studio v0.7.4",
+  "content": [
+    {
+      "path": "AGENTS.md",
+      "sha256": "33cb0006a051adb56301aa8adae4ccf5d17363dccc9f4e1f27c7b64271dd6a81",
+      "size": 9148
+    },
+    {
+      "path": "CHANGELOG_AGENT_KIT_v1.1.md",
+      "sha256": "cbdb4b2aecb00941b719365ac640a995daa9f9a7a5fa2a0823fdd86ae45f7662",
+      "size": 1473
+    },
+    {
+      "path": "PROMPT.md",
+      "sha256": "6f6d818de9d5413b89d490fc06b8597c6b357e3d0539d075ffbfd26cd469bb6a",
+      "size": 9638
+    },
+    {
+      "path": "README_INSTALL.md",
+      "sha256": "091736ddccf1a47044c8720906c49cd36d6fa014183215c276fed94024d327c2",
+      "size": 1730
+    },
+    {
+      "path": "SKILLS.md",
+      "sha256": "e574a4dc4874b0f8126eb7ff392e85c507a041ec8923ed77cdfe6bd8e9f12b28",
+      "size": 9949
+    },
+    {
+      "path": "agents/README.md",
+      "sha256": "b8d0e85f35ff3dcef27727278f52281681b2a053a892eb183d2d77d9f89dbf21",
+      "size": 1611
+    },
+    {
+      "path": "agents/app-template.md",
+      "sha256": "e5031dd41bd7f753d9e3a981469d44693525332a6acf9e549257feadea30daff",
+      "size": 795
+    },
+    {
+      "path": "agents/firmware-core.md",
+      "sha256": "259dfd7df386abd4c3f58bb2a877afd5e775e94d3338f2f2a2911c0b082c408d",
+      "size": 1195
+    },
+    {
+      "path": "agents/lua-runtime.md",
+      "sha256": "1dec9aa5975d3d72e10e63a53aac78d589705843ba34fcf179c6f0a75b2f6f7f",
+      "size": 986
+    },
+    {
+      "path": "agents/orchestrator.md",
+      "sha256": "1349ae8d3fd1b8170bd6939c026b5730762446a9d0182d15e1f5aa28a7b81769",
+      "size": 3275
+    },
+    {
+      "path": "agents/package-security.md",
+      "sha256": "5098026f2933b376d3d3e117a97ab4b0416b70d602fd0b68d6baf23a8e304423",
+      "size": 897
+    },
+    {
+      "path": "agents/qa-release.md",
+      "sha256": "653c00a9ba236e3e867ce8fdd57c7d647506c26c73766dbd874eb1b1045ada53",
+      "size": 1820
+    },
+    {
+      "path": "agents/studio-gui.md",
+      "sha256": "06be815f33075795b4da39c3281136d22823c3081c5bc830909f34724093dec1",
+      "size": 979
+    },
+    {
+      "path": "docs/agents/HANDOFF_TEMPLATE.md",
+      "sha256": "b5a561cc52432fdc8570a217e2f24b5ce3e995b20f5b56b822704e788d1d47bf",
+      "size": 5343
+    },
+    {
+      "path": "docs/agents/PROJECT_STRUCTURE.md",
+      "sha256": "46ff54d098fe3be9684c65f299d64aaa12e03b1802f93d7cb447e31db2a1c49a",
+      "size": 5205
+    },
+    {
+      "path": "docs/agents/README.md",
+      "sha256": "ace813b04e0079a884d07453fc807fd92543bacc8279157415b14964842a4db8",
+      "size": 1340
+    },
+    {
+      "path": "docs/agents/TASK_BRIEF_TEMPLATE.md",
+      "sha256": "cf85e200bf3a128ba723550a6ef1ff2bbe5a726d1c1c95b0a1e634b26d1f8cf1",
+      "size": 2341
+    },
+    {
+      "path": "docs/agents/TEST_MATRIX.md",
+      "sha256": "493c5e33fedecfec36df3c9969a115e87718525c61ab83626b4807906f26d640",
+      "size": 10553
+    },
+    {
+      "path": "tools/test_agent_docs.py",
+      "sha256": "04de045286ff277d58cda503ef2692e6e2c3d2a3c27231ede132868bf35ce416",
+      "size": 2187
+    },
+    {
+      "path": "tools/validate_agent_docs.py",
+      "sha256": "be5126f77d71b6a15e485f49248287ba8b78aa022a914d3549abbe1e9bd64144",
+      "size": 4942
+    }
+  ]
+}

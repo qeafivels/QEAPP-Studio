@@ -1,0 +1,9 @@
+{
+  "project_format": 1,
+  "id": "pocket_calc_guide",
+  "name": "Pocket Calc Guide",
+  "version": "1.0.0",
+  "type": "text",
+  "content": "content.txt",
+  "icon": "assets/icon.png"
+}

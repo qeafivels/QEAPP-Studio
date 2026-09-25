@@ -1,0 +1,8 @@
+{
+  "project_format": 1,
+  "id": "text_notes",
+  "name": "Text Notes",
+  "version": "1.0.0",
+  "type": "text",
+  "content": "content.txt"
+}

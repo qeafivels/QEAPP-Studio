@@ -1,0 +1,22 @@
+[
+  {
+    "frame": 0,
+    "key": "start",
+    "down": true
+  },
+  {
+    "frame": 0,
+    "key": "start",
+    "down": false
+  },
+  {
+    "frame": 3,
+    "key": "start",
+    "down": true
+  },
+  {
+    "frame": 3,
+    "key": "start",
+    "down": false
+  }
+]

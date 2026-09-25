@@ -1,0 +1,1 @@
+"""QEAPP Studio application package."""

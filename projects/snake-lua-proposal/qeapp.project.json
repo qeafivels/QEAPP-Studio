@@ -1,0 +1,10 @@
+{
+  "project_format": 1,
+  "id": "snake_lua",
+  "name": "Snake Lua Prototype",
+  "version": "0.1.0",
+  "type": "lua-proposal",
+  "entry": "main.lua",
+  "engine_api": "0.1-draft",
+  "notice": "NOT BUILDABLE on VQEAF OS 2.4.2; requires an approved script runtime and versioned package format"
+}

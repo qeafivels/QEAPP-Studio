@@ -1,0 +1,9 @@
+{
+  "project_format": 1,
+  "id": "pocket_calc",
+  "name": "Pocket Calculator",
+  "version": "1.0.0",
+  "type": "lua",
+  "content": "main.lua",
+  "icon": "assets/icon.png"
+}

@@ -1,0 +1,52 @@
+[
+  {
+    "frame": 0,
+    "key": "down",
+    "down": true
+  },
+  {
+    "frame": 0,
+    "key": "down",
+    "down": false
+  },
+  {
+    "frame": 3,
+    "key": "start",
+    "down": true
+  },
+  {
+    "frame": 3,
+    "key": "start",
+    "down": false
+  },
+  {
+    "frame": 5,
+    "key": "right",
+    "down": true
+  },
+  {
+    "frame": 5,
+    "key": "right",
+    "down": false
+  },
+  {
+    "frame": 8,
+    "key": "down",
+    "down": true
+  },
+  {
+    "frame": 8,
+    "key": "down",
+    "down": false
+  },
+  {
+    "frame": 10,
+    "key": "left",
+    "down": true
+  },
+  {
+    "frame": 10,
+    "key": "left",
+    "down": false
+  }
+]

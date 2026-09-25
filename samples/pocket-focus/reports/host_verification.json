@@ -1,0 +1,50 @@
+{
+  "mode": "PC HOST ONLY",
+  "hardware": "NOT_TESTED",
+  "gui": "NOT_TESTED",
+  "checks": [
+    "VALID project pocket-focus-lua",
+    "VALID project pocket-focus-guide",
+    "REAL HOST LUA home",
+    "REAL HOST LUA running",
+    "REAL HOST LUA paused",
+    "REAL HOST LUA settings",
+    "REAL HOST LUA stats",
+    "REAL HOST LUA end_dialog",
+    "REAL HOST LUA resume",
+    "WORK -> BREAK timed phase transition",
+    "AUTO BREAK OFF -> completion",
+    "guide host signed package + verify supplied temporary public key",
+    "lua-beta host signed package + verify supplied temporary public key"
+  ],
+  "images": [
+    {
+      "name": "home",
+      "sha256": "763febc3a18acf5e2186b4676dce166e12fdbd7243a7e7139b5b94c50d1c5c2b"
+    },
+    {
+      "name": "running",
+      "sha256": "dd9f11cf8c02f26c1cb08510bc7c3dbc1f84850c951184c63dc6d750a376daac"
+    },
+    {
+      "name": "paused",
+      "sha256": "51935083c58252226c57f235a61bfaf8d4cabcf955d263181a6987d176fd5029"
+    },
+    {
+      "name": "settings",
+      "sha256": "595f792b28024da15fa4e1b55f55b8a07df7b3256e7627c8330c93cb88a6b818"
+    },
+    {
+      "name": "stats",
+      "sha256": "cf04e0f73ba50930b1254137dcaa12c4424bf95ab70b406d80bc0815fea9b61c"
+    },
+    {
+      "name": "end_dialog",
+      "sha256": "553cc752890d6f56a771d14a1f80c640aa047944174b8a1c3c194102d4941b5d"
+    },
+    {
+      "name": "resume",
+      "sha256": "dd9f11cf8c02f26c1cb08510bc7c3dbc1f84850c951184c63dc6d750a376daac"
+    }
+  ]
+}

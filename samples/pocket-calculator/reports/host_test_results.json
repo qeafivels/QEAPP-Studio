@@ -1,0 +1,64 @@
+{
+  "test_environment": "Linux/Windows PC host",
+  "device": "NOT TESTED",
+  "qt_gui": "NOT TESTED",
+  "tests": [
+    "Lua project validation PASS",
+    "Stock guide project validation PASS",
+    "Actual Lua host 40 frames home: PASS",
+    "Actual Lua host 40 frames calculator: PASS",
+    "Actual Lua host 40 frames result_7_plus_2: PASS",
+    "Actual Lua host 40 frames history_result: PASS",
+    "Actual Lua host 40 frames divide_by_zero: PASS",
+    "Actual Lua host 40 frames clear_error: PASS",
+    "Actual Lua host 40 frames about: PASS",
+    "Actual Lua host 40 frames empty_history: PASS",
+    "Division-by-zero red error UI PASS",
+    "Clear error reset UI PASS",
+    "History selection UI PASS",
+    "Stock text guide ephemeral host signing and verify PASS",
+    "Lua beta ephemeral host signing and verify PASS"
+  ],
+  "screenshots": {
+    "home": {
+      "sha256": "bbfd977acb65c78523aa9bfba323019e84106beaafe12126b350f5be33365b0d",
+      "frames": 40,
+      "log": "PASS Lua 5.4 VM frames=40 peak_live_last=44861 peak_heap=45338 input_events=4 rect=508 text=324"
+    },
+    "calculator": {
+      "sha256": "e662585cd0bc34129f5f5e337eed5529ce20bf3be67346ff501e3c9701af32cd",
+      "frames": 40,
+      "log": "PASS Lua 5.4 VM frames=40 peak_live_last=45501 peak_heap=45501 input_events=4 rect=1200 text=1000"
+    },
+    "result_7_plus_2": {
+      "sha256": "54ed045c3fc3671021dfe4cc2069cefe6b6941cc9b2ca38b31b4e9e1ddc55be4",
+      "frames": 40,
+      "log": "PASS Lua 5.4 VM frames=40 peak_live_last=45579 peak_heap=45579 input_events=28 rect=1200 text=1000"
+    },
+    "history_result": {
+      "sha256": "dd5b442d8c3924583967da81bd8360d75a3470f8d323a99ba50aed8afaf35e38",
+      "frames": 40,
+      "log": "PASS Lua 5.4 VM frames=40 peak_live_last=45579 peak_heap=45579 input_events=32 rect=1008 text=840"
+    },
+    "divide_by_zero": {
+      "sha256": "105bfada03c4436b1024079f6b1215400b817e13e979b647bbad8fa9dcf3d76c",
+      "frames": 40,
+      "log": "PASS Lua 5.4 VM frames=40 peak_live_last=45529 peak_heap=45529 input_events=24 rect=1200 text=1000"
+    },
+    "clear_error": {
+      "sha256": "683c977903ffdce9220770a4034fcab9727e405658800281b2fb81f004bbad6d",
+      "frames": 40,
+      "log": "PASS Lua 5.4 VM frames=40 peak_live_last=45529 peak_heap=45529 input_events=32 rect=1200 text=1000"
+    },
+    "about": {
+      "sha256": "4dcc9fa96237c0ab814386f8fbad441ff6e21d11921cdcbe415bbb06658f4761",
+      "frames": 40,
+      "log": "PASS Lua 5.4 VM frames=40 peak_live_last=44861 peak_heap=45338 input_events=6 rect=412 text=356"
+    },
+    "empty_history": {
+      "sha256": "bc2ec5bcc8e79aec022c1fd978c20ebd3da164353c752ed0c6a3d93048418dcc",
+      "frames": 40,
+      "log": "PASS Lua 5.4 VM frames=40 peak_live_last=44861 peak_heap=45338 input_events=4 rect=409 text=209"
+    }
+  }
+}

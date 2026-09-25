@@ -1,0 +1,10 @@
+POCKET FOCUS - USER GUIDE
+
+Use the Pocket Focus Lua beta application in QEAPP Studio.
+Focus presets: 15 / 25 / 45 minutes.
+Break presets: 3 / 5 / 10 minutes.
+Keys: arrows navigate; START select/pause; OPTION back or end.
+The system BACK/HOME keys remain controlled by VQEAF OS.
+
+NOTE: This text guide installs on stock VQEAF QEAPP/2 firmware,
+but does not run the interactive Lua application.

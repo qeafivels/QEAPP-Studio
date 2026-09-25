@@ -1,0 +1,22 @@
+{
+  "snake:ready:40": {
+    "rgb_sha256": "fce58a4d741c72d690643b2328b6648f9ed7cefb715c50ec36d499165a59a99a",
+    "png_sha256": "120ccb094424473faf826cac209592d7ef19789e779a05633f502aea75e29e54"
+  },
+  "snake:playing:40": {
+    "rgb_sha256": "3c5d470ed542712b4125980f9497c175e46fd8a31ad261bb76693e17f3b5ff03",
+    "png_sha256": "f1833738920eae0188bf3f74e37461c4d884d76b3d75757210069648396abe8d"
+  },
+  "snake:paused:40": {
+    "rgb_sha256": "d2e46d875d2b537b95433d1b1150def22e2d8fd072bb98a0461fc9a36ba5404c",
+    "png_sha256": "d89d18d538a9df7e7892999aa3bba45d7d5255354c8498037398168cd5bcd8ff"
+  },
+  "hello:ready:40": {
+    "rgb_sha256": "d6fb7f78e775418f0c34ebdaf87d40e203ce036fde08d1a726e2649f8a993b47",
+    "png_sha256": "c732154b14cf903d1e45f0491afa1060af79f85687c531cab763fef6bacd22e1"
+  },
+  "hello:playing:40": {
+    "rgb_sha256": "4dabce60924564f3ce26837b22611a736c4a01e181ad142de6b2b163b5388a16",
+    "png_sha256": "100eea62e60c0feb98a6066dcb978ceba4a69dc679bb29aaff7a05e952109d24"
+  }
+}

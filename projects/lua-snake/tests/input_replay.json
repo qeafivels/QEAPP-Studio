@@ -1,0 +1,6 @@
+[
+  {"frame": 1, "key": "start", "down": true},
+  {"frame": 2, "key": "start", "down": false},
+  {"frame": 3, "key": "right", "down": true},
+  {"frame": 4, "key": "right", "down": false}
+]

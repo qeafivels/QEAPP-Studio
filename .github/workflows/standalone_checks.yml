@@ -1,0 +1,19 @@
+name: Standalone Studio static and dependency-free checks
+on: [push, pull_request, workflow_dispatch]
+jobs:
+  docs-and-resolver:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - name: Compile Studio Python source
+        run: python -m compileall -q studio tools
+      - name: Verify standalone repo source integrity
+        run: python tools/verify_separation.py
+      - name: Test external firmware path resolution
+        run: python -m unittest discover -s tests -p test_separate_repo.py -v
+      - name: Validate AI agent docs
+        run: python tools/validate_agent_docs.py
+# Qt GUI, firmware build, signing E2E and ESP32-S3 MUST use separate gates.

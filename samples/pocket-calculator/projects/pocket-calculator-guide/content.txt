@@ -1,0 +1,19 @@
+POCKET CALCULATOR - USER GUIDE
+
+This is the guide edition for stock VQEAF OS firmware.
+The full interactive Lua calculator is a separate beta-only app.
+Open Pocket Calculator in QEAPP Studio v0.7.4 and press F9 to run
+it in the PC Lua host virtual phone.
+
+Controls:
+D-PAD: move selection or cursor
+START: open / select / calculate
+OPTION: return to previous app page
+Physical OS BACK: OS-owned confirm dialog
+
+Arithmetic: plus, minus, multiply, divide, negate and decimal.
+Five most recent results are kept in memory for the session.
+No file or network access is requested.
+
+To install the Lua version you must provision a beta public key,
+build with --experimental-lua and test on the target ESP32-S3.

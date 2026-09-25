@@ -1,0 +1,31 @@
+__pycache__/
+*.pyc
+.pytest_cache/
+dist/
+build/
+*.pem
+*.key
+*.p12
+*.pfx
+*.qeapp
+*.log
+
+# QEAPP Studio editor/build local data
+build/
+dist/
+*.pem
+*.key
+*.p12
+*.pfx
+*.qeapp
+!.gitkeep
+
+# Monorepo build/cache exclusions
+**/__pycache__/
+**/.venv/
+**/build/
+**/dist/
+**/*.pyc
+**/*.pem
+**/*.key
+**/logs/

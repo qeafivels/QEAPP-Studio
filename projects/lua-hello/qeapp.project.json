@@ -1,0 +1,8 @@
+{
+  "project_format": 1,
+  "id": "lua_hello",
+  "name": "Lua Hello",
+  "version": "0.1.0",
+  "type": "lua",
+  "content": "main.lua"
+}

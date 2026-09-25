@@ -1,0 +1,8 @@
+{
+  "project_format": 1,
+  "id": "sprite_ship",
+  "name": "Sprite Ship Demo",
+  "version": "0.5",
+  "type": "lua",
+  "content": "main.lua"
+}
